@@ -1,4 +1,4 @@
-# PMSM-Acoustic-Fault-Analysis
+
 # Fault Analysis and Torque Estimation of PMSM Using Acoustic Signals
 
 ## Overview
