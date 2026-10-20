@@ -1,0 +1,7 @@
+model,input,validation,recordings,windows,MAE_Nm,RMSE_Nm,R2
+Extra Trees acoustic,105 acoustic features,Leave-One-Recording-Out,10,2210,1.7185884590246363,2.6393744611711303,0.7003167631291782
+Random Forest acoustic,105 acoustic features,Leave-One-Recording-Out,10,2210,1.762433651456219,2.5995022483204906,0.7093028155484499
+Random Forest acoustic + RPM,105 acoustic features + RPM,Leave-One-Recording-Out,10,2210,1.944024213708199,2.8490010777152426,0.6508229772189356
+Ridge acoustic,105 acoustic features,Leave-One-Recording-Out,10,2210,2.7886710782622153,3.7632767890074645,0.39075390482717676
+Extra Trees acoustic + RPM,105 acoustic features + RPM,Leave-One-Recording-Out,10,2210,2.8681495651081033,3.5668684137421978,0.4526884583788555
+Median baseline,baseline; no features,Leave-One-Recording-Out,10,2210,5.163800904977376,5.693059996758934,-0.394286274049896

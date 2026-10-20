@@ -1,0 +1,5 @@
+file_name,windows,estimated_torque_mean_nm,estimated_torque_median_nm,prediction_std_nm,min_window_prediction_nm,max_window_prediction_nm,training_torque_min_nm,training_torque_max_nm,estimate_status
+backup_6.lvm,444,5.488728464178458,5.3591785714285685,0.46808080543283603,4.849895238095235,7.8405152380951915,1.5,18.2,Experimental estimate; not independently validated
+backup_7.lvm,134,6.082753948116544,6.075427142857127,0.8287501207673198,5.027728571428568,7.852648571428524,1.5,18.2,Experimental estimate; not independently validated
+sound 2000.lvm,4,5.860193333333329,5.518083095238091,0.7765522354686349,5.3930785714285685,7.011528571428563,1.5,18.2,Experimental estimate; not independently validated
+sound 3000.lvm,228,7.407374079991622,7.4060095238095,0.027472054523647815,7.068488333333327,7.4394095238095,1.5,18.2,Experimental estimate; not independently validated
